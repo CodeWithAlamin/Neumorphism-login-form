@@ -6,9 +6,9 @@
 
 ## Author
 
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
 
 ### Screenshot
 
@@ -16,6 +16,6 @@
 
 <p><img align="center" src="design/neumorphism-beautiful-login-form.png"/></p>
 
-#### Mobile preview 
+#### Mobile preview
 
 <p><img align="center" width="30%" src="design/neumorphism-beautiful-login-form-mobile.png"/></p>
